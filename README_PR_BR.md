@@ -3,15 +3,15 @@ Meu interesse principal é o compartilhamento de conhecimento!
 Minhas areas de interesse são infraestrutura (IaaC), SRE, Automação, Cultura DevOps, Engenharia de Dados, Python, Ruby e Rust. Também adoro falar sobre diversidade, inclusão e acessibilidade.
 
 ## Biografia 
-Natalia trabalha com infraestrutura desde 2009, hoje trabalha como ```XXXXXXX``` na empresa ```XXXXXXX```, tenho vasta experiencia atuando como SysAdmin. Ex estudante de física e hoje se aprofundando em estudar Engenharia e Arquitetura de Software. 
+Natalia trabalha com infraestrutura desde 2009, hoje trabalha como ```XXXXXXX``` na empresa ```XXXXXXX```, tem vasta experiencia atuando como SysAdmin. Ex estudante de física e hoje se aprofundando em estudar Engenharia e Arquitetura de Software. 
 
-Tento ser o mais ativa possível nas comunidades de desenvolvimento e sempre ajudando projetos open source, principalmente quando necessitam de tradução. 
+Tenta ser o mais ativa possível nas comunidades de desenvolvimento e sempre ajudando projetos open source, principalmente quando necessitam de tradução. 
 
-Também hoje presto mentoria para outras mulheres negras na área de desenvolvimento de carreira e mantenho o um evento maravilhoso chamado Tech&&Beer. 
+Também presta mentoria para outras mulheres negras na área de desenvolvimento de carreira e mantenho o um evento maravilhoso chamado Tech&&Beer. 
 
 Apaixonada por gatos, pizza, cerveja e pelo maridinho. :D 
 
-*Obs: lembrem-se eu dou uma pessoa autista e com deficiencia auditiva*
+*Obs: lembrem-se eu sou uma pessoa autista e com deficiencia auditiva*
 
 ## Fotos
 
@@ -21,7 +21,8 @@ Na pasta fotos você encontra algumas das minhas fotos favoritas que foram tirad
 
 # 2020 
 
-## Palestras
+## Palestras (Em Breve)
+
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
 Abril/2020 | A Definir | Meetup Docker RJ | Online
