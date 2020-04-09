@@ -15,7 +15,7 @@ Apaixonada por gatos, pizza, cerveja e pelo maridinho. :D
 
 ## Fotos
 
-Na pasta fotos você encontra algumas das minhas fotos favoritas que foram tiradas em eventos, mas uma das minhas favoritas é essa daqui: 
+Na pasta fotos você encontra algumas das minhas fotos favoritas que foram tiradas em eventos, mas a minha favorita é essa daqui (FlaskConf): 
 
 ![foto](fotos/48726627043_7979a2681c_o.jpg)
 
