@@ -7,7 +7,7 @@ Natalia trabalha com infraestrutura desde 2009, hoje trabalha como ```XXXXXXX```
 
 Tenta ser o mais ativa possível nas comunidades de desenvolvimento e sempre ajudando projetos open source, principalmente quando necessitam de tradução. 
 
-Também presta mentoria para outras mulheres negras na área de desenvolvimento de carreira e mantenho o um evento maravilhoso chamado Tech&&Beer. 
+Também presta mentoria para outras mulheres negras na área de desenvolvimento de carreira e mantem o um evento maravilhoso chamado Tech&&Beer. 
 
 Apaixonada por gatos, pizza, cerveja e pelo maridinho. :D 
 
