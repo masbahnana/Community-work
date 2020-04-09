@@ -51,7 +51,6 @@ Out/2019 | Tech&&Beer e o seu propósito | Hacktoberfest | Porto Alegre?rs
 Nov/2019 | Free Beer and Amazing People | RailsGirls | Porto Alegre/RS
 Nov/2019 | IA e a Segurança dos teus Dados | RoadSec | São Paulo/SP
 
-
 ## Workshops
 
 Data | Atividade | Assunto | Evento/Meetup | Local
@@ -69,11 +68,17 @@ Set/2019 | Painel sobre acessibilidade | Festival SGB | Florianópolis/SC
 
 ## Coordenações
 
-Data | Evento/Meetup | Assunto | Local
+Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Abril/2019 | The Developers Conference | Coordenadora da trilha de Machine Learning | Florianópolis/SC 
-Atualmente | PyData Porto Alegre | Coordenadora da Comunidade | Porto Alegre/RS
-Atualmente | Tech&&Beer | Criadora e Coordenadora do Evento | Porto Alegre/RS
+Abril/2019 | Coordenadora da trilha de Machine Learning | The Developers Conference | Florianópolis/SC 
+Atualmente | Coordenadora da Comunidade | PyData Porto Alegre | Porto Alegre/RS
+Atualmente | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
+
+## Reconhecimentos
+Data | Assunto | Evento/Meetup | Local
+--- | --- | --- | ---
+Dez/2019 | TDC Rock Star | The Developers Conference | Porto Alegre/RS
+
 
 # 2018
 
@@ -114,5 +119,5 @@ Abril/2018 | Voluntária | The Developers Conference | Florianópolis/SC
 ## Coordenações
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Jul/2018 | The Developers Conference | Coordenadora da trilha de Internet das Coisas | Sãi Paulo/SP
-Dez/2018 | The Developers Conference | Coordenadora da trilha de Machine Learning | Porto Alegre/RS
+Jul/2018 | Coordenadora da trilha de Internet das Coisas | The Developers Conference | São Paulo/SP
+Dez/2018 | Coordenadora da trilha de Machine Learning | The Developers Conference | Porto Alegre/RS
