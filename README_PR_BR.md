@@ -28,6 +28,10 @@ Data | Assunto | Evento/Meetup | Local
 Abril/2020 | A Definir | Meetup Docker RJ | Online
 Maio/2020 | Machine Learning com Docker e Flask | FiqueEmCasaConf | Online 
 
+## Outras participações (Em Breve)
+Data | Assunto | Evento/Meetup | Local
+--- | --- | --- | ---
+A definir | Cultura DevOps | Opencast | Online
 
 # 2019
 
@@ -64,6 +68,7 @@ Maio/2019 | Workshop | Docker para Cientista de Dados | PyData | Porto Alegre/RS
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
+Jun/2019 | Podcast | QuebraDev | Online
 Set/2019 | Mentora | Hackathon Kinghost | Porto Alegre/RS
 Set/2019 | Painel sobre acessibilidade | Festival SGB | Florianópolis/SC 
 
@@ -71,9 +76,10 @@ Set/2019 | Painel sobre acessibilidade | Festival SGB | Florianópolis/SC
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Abril/2019 | Coordenadora da trilha de Machine Learning | The Developers Conference | Florianópolis/SC 
 Atualmente | Coordenadora da Comunidade | PyData Porto Alegre | Porto Alegre/RS
 Atualmente | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
+Abril/2019 | Coordenadora da trilha de Machine Learning | The Developers Conference | Florianópolis/SC 
+
 
 ## Reconhecimentos
 Data | Assunto | Evento/Meetup | Local
@@ -104,10 +110,11 @@ Set/2018 | Machine Learning e Microsserviços | DevOpsDays | Porto Alegre/RS
 Set/2018 | Machine Learning e Microsserviços | Conexão KingHost | Porto Alegre/RS
 Out/2018 | Viéses dos Algoritmos de IA | Negras Plurais | Porto Alegre/RS
 Out/2018 | Carreira em TI | UERGS Uniasselvi | Porto Alegre/RS
+Out/2018 | Docker para NodeJS | Meetup NodeJS | Porto Alegre/RS
 Out/2018 | Introdução a Inteligencia Artificial | Hacktoberfest | Porto Alegre/RS
 Nov/2018 | Criptografia Quântica | RoadSec | São Paulo/SP
 Dez/2018 | Física e Data Science | The Developers Conference | Porto Alegre/RS
-Dez/2018 | Acessíbildade e Carreira | The Developers Conference | Porto Alegre/RS
+Dez/2018 | Acessibilidade e Carreira | The Developers Conference | Porto Alegre/RS
 Dez/2018 | Ruby e Machine Learning | The Developers Conference | Porto Alegre/RS
 Dez/2018 | Carreira BigData e DevOps | Uniritter | Porto Alegre/RS
 
@@ -120,5 +127,6 @@ Abril/2018 | Voluntária | The Developers Conference | Florianópolis/SC
 ## Coordenações
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
+Atualmente | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
 Jul/2018 | Coordenadora da trilha de Internet das Coisas | The Developers Conference | São Paulo/SP
 Dez/2018 | Coordenadora da trilha de Machine Learning | The Developers Conference | Porto Alegre/RS

@@ -1,10 +1,9 @@
 ## My interests
-My interests
 My main interest is knowledge sharing!
 My areas of interest are infrastructure (IaaC), SRE, Automation, DevOps Culture, Data Engineering, Python, Ruby and Rust. I also love to talk about diversity, inclusion and accessibility.
 
 ## Biografy
-Natalia has been working with infrastructure since 2009, today she works as `` `XXXXXXX``` at the company` `` XXXXXXX```, has extensive experience acting as SysAdmin. Former student of physics and today deepening in studying Software Engineering and Architecture.
+Natalia has been working with infrastructure since 2009, today she works as ```XXXXXXX``` at the company ``` XXXXXXX```, has extensive experience acting as SysAdmin. Former student of physics and today deepening in studying Software Engineering and Architecture.
 
 Try to be as active as possible in the development communities and always helping open source projects, especially when they need translation.
 
@@ -22,10 +21,17 @@ In the photos folder you can find some of my favorite photos that were taken at 
 
 # 2020
 
-## Talks (UpComing)
+## Talks (Upcoming)
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
+Apr/2020 | Undefined | Meetup Docker RJ | Online
+May/2020 | Machine Learning with Docker and Flask | FiqueEmCasaConf | Online 
+
+## Other participations (Upcoming)
+Data | Topic | Event/Meetup | Local
+--- | --- | --- | ---
+Undefined | DevOps Culture | Opencast | Online
 
 # 2019
 
@@ -33,26 +39,52 @@ Data | Topic | Event/Meetup | Local
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
+Jan/2019 | IA for Mobile | Meetup CocoaHeads | Porto Alegre/RS
+Mar/2019 | Cloud and Machine Learning | CloudUp | Porto Alegre/RS
+Mar/2019 | IA with GoLang | Meetup Go | Porto Alegre/RS
+Mar/2019 | Machine Learning Introduction | SENAC College | Porto Alegre/RS
+Apr/2019 | Black Womans at Science and Technology | Astronomy Meeting | Canoas/RS
+May/2019 | Design Patterns with Python | Digital Innovation One | Online 
+May/2019 | Black Womans at Science and Technology | DevOpsDays | Porto Alegre/RS
+Jun/2019 | IA and Your Security Data | Mind The Sec | Porto Alegre/RS
+Jul/2019 | DevOps Culture for Accessibility | Meetup PHP | Porto Alegre/RS
+Aug/2019 | Machine Learning with Docker and Flask | Meetup Docker | Porto Alegre/RS
+Sep/2019 | Machine Learning with Docker and Flask | FlaskConf | Florianópolis/SC
+Sep/2019 | Career and communities | Locaweb Digital Conference | Porto Alegre/RS
+Oct/2019 | Facial Recognition is For Whom? | IFRS | Porto Alegre/Rs
+Oct/2019 | Tech&&Beer and your Purpose | Hacktoberfest | Porto Alegre?rs
+Nov/2019 | Free Beer and Amazing People | RailsGirls | Porto Alegre/RS
+Nov/2019 | IA and Your Security Data | RoadSec | São Paulo/SP
 
 ## Workshops
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
+Feb/2019 | Workshop | Data Science Introduction | Campus Party | São Paulo/SP
+Mar/2019 | Workshop | Data Science Introduction | Facebook Developer Circles | Porto Alegre/RS
+May/2019 | Workshop | Docker for Data Scientist | PyData | Porto Alegre/RS
 
 ## Other participations
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
+Jun/2019 | Podcast | QuebraDev | Online
+Sep/2019 | Mentor | Hackathon Kinghost | Porto Alegre/RS
+Sep/2019 | Accessibility Panel | Festival SGB | Florianópolis/SC 
 
 ## Coordinations
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
+Apr/2019 | Machine Learning track Coordinator | The Developers Conference | Florianópolis/SC 
+Current | Community Coordinator | PyData Porto Alegre | Porto Alegre/RS
+Current | Creator and Event Coordinator | Tech&&Beer | Porto Alegre/RS
 
 ## Acknowledgments
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
+Dec/2019 | TDC Rock Star | The Developers Conference | Porto Alegre/RS
 
 # 2018
 
@@ -60,6 +92,30 @@ Data | Topic | Event/Meetup | Local
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
+Apr/2018 | Free Software and Security | FLISOL | Porto Alegre/RS
+May/2018 | BigData Ecosystem | IFRS | Porto Alegre/RS
+May/2018 | IOT with Arduino | AfroPython | Porto Alegre/RS
+Jun/2018 | BigData Ecosystem | TcheLinux | Santa Cruz/RS
+Jun/2018 | BigData Ecosystem | RSJS | Porto Alegre/RS
+Jun/2018 | BigData Ecosystem | GoogleIO | Porto Alegre/RS
+Jul/2018 | BigData Ecosystem | FISL | Porto Alegre/RS
+Jul/2018 | Anatomy of an Embedded System | FISL | Porto Alegre/RS
+Jul/2018 | Free Software and Security | FISL | Porto Alegre/RS
+Jul/2018 | BigData and DevOps | The Developers Conference | São Paulo/SP
+Jul/2018 | Automation with NodeJS | The Developers Conference | São Paulo/SP
+Jul/2018 | I am Hearing Impaired so what? | The Developers Conference | São Paulo/SP
+Ago/2018 | Machine Learning and Microsservices | Meetup Docker | Porto Alegre/RS
+Set/2018 | Machine Learning and Microsservices | DevOpsDays | Porto Alegre/RS
+Set/2018 | Machine Learning and Microsservices | Conexão KingHost | Porto Alegre/RS
+Out/2018 | AI Algorithms Bias | Negras Plurais | Porto Alegre/RS
+Out/2018 | It Career | UERGS Uniasselvi | Porto Alegre/RS
+Out/2018 | Docker for NodeJS | Meetup NodeJS | Porto Alegre/RS
+Out/2018 | Introduction to Artificial Intelligence | Hacktoberfest | Porto Alegre/RS
+Nov/2018 | Quantum Cryptography | RoadSec | São Paulo/SP
+Dez/2018 | Physics and Data Science | The Developers Conference | Porto Alegre/RS
+Dez/2018 | Accessibility and Career | The Developers Conference | Porto Alegre/RS
+Dez/2018 | Ruby and Machine Learning | The Developers Conference | Porto Alegre/RS
+Dez/2018 | Career BigData and DevOps | Uniritter | Porto Alegre/RS
 
 ## Other participations
 
