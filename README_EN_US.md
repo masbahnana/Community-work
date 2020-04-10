@@ -76,9 +76,9 @@ Sep/2019 | Accessibility Panel | Festival SGB | Florianópolis/SC
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
-Apr/2019 | Machine Learning track Coordinator | The Developers Conference | Florianópolis/SC 
 Current | Community Coordinator | PyData Porto Alegre | Porto Alegre/RS
 Current | Creator and Event Coordinator | Tech&&Beer | Porto Alegre/RS
+Apr/2019 | Machine Learning track Coordinator | The Developers Conference | Florianópolis/SC 
 
 ## Acknowledgments
 
@@ -104,25 +104,29 @@ Jul/2018 | Free Software and Security | FISL | Porto Alegre/RS
 Jul/2018 | BigData and DevOps | The Developers Conference | São Paulo/SP
 Jul/2018 | Automation with NodeJS | The Developers Conference | São Paulo/SP
 Jul/2018 | I am Hearing Impaired so what? | The Developers Conference | São Paulo/SP
-Ago/2018 | Machine Learning and Microsservices | Meetup Docker | Porto Alegre/RS
-Set/2018 | Machine Learning and Microsservices | DevOpsDays | Porto Alegre/RS
-Set/2018 | Machine Learning and Microsservices | Conexão KingHost | Porto Alegre/RS
-Out/2018 | AI Algorithms Bias | Negras Plurais | Porto Alegre/RS
-Out/2018 | It Career | UERGS Uniasselvi | Porto Alegre/RS
-Out/2018 | Docker for NodeJS | Meetup NodeJS | Porto Alegre/RS
-Out/2018 | Introduction to Artificial Intelligence | Hacktoberfest | Porto Alegre/RS
+Aug/2018 | Machine Learning and Microsservices | Meetup Docker | Porto Alegre/RS
+Sep/2018 | Machine Learning and Microsservices | DevOpsDays | Porto Alegre/RS
+Sep/2018 | Machine Learning and Microsservices | Conexão KingHost | Porto Alegre/RS
+Oct/2018 | AI Algorithms Bias | Negras Plurais | Porto Alegre/RS
+Oct/2018 | It Career | UERGS Uniasselvi | Porto Alegre/RS
+Oct/2018 | Docker for NodeJS | Meetup NodeJS | Porto Alegre/RS
+Oct/2018 | Introduction to Artificial Intelligence | Hacktoberfest | Porto Alegre/RS
 Nov/2018 | Quantum Cryptography | RoadSec | São Paulo/SP
-Dez/2018 | Physics and Data Science | The Developers Conference | Porto Alegre/RS
-Dez/2018 | Accessibility and Career | The Developers Conference | Porto Alegre/RS
-Dez/2018 | Ruby and Machine Learning | The Developers Conference | Porto Alegre/RS
-Dez/2018 | Career BigData and DevOps | Uniritter | Porto Alegre/RS
+Dec/2018 | Physics and Data Science | The Developers Conference | Porto Alegre/RS
+Dec/2018 | Accessibility and Career | The Developers Conference | Porto Alegre/RS
+Dec/2018 | Ruby and Machine Learning | The Developers Conference | Porto Alegre/RS
+Dec/2018 | Career BigData and DevOps | Uniritter | Porto Alegre/RS
 
 ## Other participations
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
+Apr/2018 | Volunteer | The Developers Conference | Florianópolis/SC
 
 ## Coordinations	
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
+Current | Creator and Event Coordinator | Tech&&Beer | Porto Alegre/RS
+Jul/2018 | Internet of Things trail Coordinator | The Developers Conference | São Paulo/SP
+Dec/2018 | Machine Learning trail Coordinator | The Developers Conference | Porto Alegre/RS
