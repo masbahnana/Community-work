@@ -3,7 +3,7 @@ Meu interesse principal é o compartilhamento de conhecimento!
 Minhas areas de interesse são infraestrutura (IaaC), SRE, Automação, Cultura DevOps, Engenharia de Dados, Python, Ruby e Rust. Também adoro falar sobre diversidade, inclusão e acessibilidade.
 
 ## Biografia 
-Natalia trabalha com infraestrutura desde 2009, hoje trabalha como ```XXXXXXX``` na empresa ```XXXXXXX```, tem vasta experiencia atuando como SysAdmin. Ex estudante de física e hoje se aprofundando em estudar Engenharia e Arquitetura de Software. 
+Natalia trabalha com infraestrutura desde 2009, hoje trabalha como Quality Engineer na Red Hat, tem vasta experiencia atuando como SysAdmin. Ex estudante de física e hoje se aprofundando em estudar Engenharia e Arquitetura de Software. 
 
 Tenta ser o mais ativa possível nas comunidades de desenvolvimento e sempre ajudando projetos open source, principalmente quando necessitam de tradução. 
 
@@ -21,17 +21,26 @@ Na pasta fotos você encontra algumas das minhas fotos favoritas que foram tirad
 
 # 2020 
 
-## Palestras (Em Breve)
+## Palestras 
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Abril/2020 | A Definir | Meetup Docker RJ | Online
+Abril/2020 | DevOps e Acessibilidade | Meetup Docker RJ | Online
 Maio/2020 | Machine Learning com Docker e Flask | FiqueEmCasaConf | Online 
+Maio/2020 | Python e Load Balancers | Nerdzão, Nerdgirls | Online
 
-## Outras participações (Em Breve)
+## Outras participações
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-A definir | Cultura DevOps | Opencast | Online
+Maio/2020 | Cultura DevOps | Opencast | Online
+Maio/2020 | Como é trabalhar com Infraestrutura na Irlanda | Passaporte Nerd | Online
+
+## Coordenações
+
+Data | Assunto | Evento/Meetup | Local
+--- | --- | --- | ---
+Atualmente | Coordenadora da Comunidade | PyData Porto Alegre | Porto Alegre/RS
+Atualmente | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
 
 # 2019
 
