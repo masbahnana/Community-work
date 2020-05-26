@@ -21,9 +21,8 @@ In the photos folder you can find some of my favorite photos that were taken at 
 
 # 2020
 
-## Talks 
+## Talks (Upcoming)
 
-### (Upcoming)
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
 May/2020 | Keynote | PyData Brazil | Online
@@ -32,19 +31,23 @@ Jun/2020 | Just a Chat | (World of Programming) O mundo da programação | Onlin
 Jun/2020 | To be defined | To be defined | Online
 Jul/2020 | To be defined | To be defined | Online
 
+## Talks 
+
+**In the case of online lectures it is possible to watch them, just click online**
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
-Apr/2020 | DevOps Culture and Accessibility | Meetup Docker RJ | Online
-May/2020 | Machine Learning with Docker and Flask | FiqueEmCasaConf | Online 
-May/2020 | Python e Load Balancers | Nerdzão, Nerdgirls | Online
-May/2020 | Python e Load Balancers | Live de Python | Online
+Apr/2020 | DevOps Culture and Accessibility | Meetup Docker RJ | [Online](https://www.youtube.com/watch?v=7wGm_mL_fbA)
+May/2020 | Machine Learning with Docker and Flask | FiqueEmCasaConf | [Online](https://www.youtube.com/watch?v=J5E59YgbyYo&t=3s) 
+May/2020 | Python e Load Balancers | Nerdzão, Nerdgirls | [Online](https://www.youtube.com/watch?v=CqLixrRrKZI)
+May/2020 | Python e Load Balancers | Live de Python | [Online](https://www.youtube.com/watch?v=yAy_n8n6S5E&t=30s)
 
-## Other participations (Upcoming)
+## Other participations
+
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
-May/2020 | DevOps Culture | Opencast | Online
-May/2020 | How is working with Infrastructure in Ireland | Passaporte Nerd | Online
+May/2020 | DevOps Culture | Opencast | [Online](https://www.youtube.com/watch?v=2xj8-v0o9LQ)
+May/2020 | How is working with Infrastructure in Ireland | Passaporte Nerd | [Online](https://www.youtube.com/watch?v=fhvTeuyQ3LE)
 
 
 # 2019

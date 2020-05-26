@@ -21,9 +21,7 @@ Na pasta fotos você encontra algumas das minhas fotos favoritas que foram tirad
 
 # 2020 
 
-## Palestras 
-
-### Em breve
+## Palestras (Em breve)
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
@@ -33,6 +31,10 @@ Jun/2020 | Bate Papo | O mundo da programação | Online
 Jun/2020 | A definir | A definir | A definir 
 Jul/2020 | A definir | A definir | A definir
 
+## Palestras
+
+**No caso das palestras online é possível assisti-lás, basta clicar em online**
+
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
 Abril/2020 | DevOps e Acessibilidade | Meetup Docker RJ | [Online](https://www.youtube.com/watch?v=7wGm_mL_fbA)
@@ -41,6 +43,7 @@ Maio/2020 | Python e Load Balancers | Nerdzão, Nerdgirls | [Online](https://www
 Maio/2020 | Python e Load Balancers | Live de Python | [Online](https://www.youtube.com/watch?v=yAy_n8n6S5E&t=30s)
 
 ## Outras participações
+
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
 Maio/2020 | Cultura DevOps | Opencast | [Online](https://www.youtube.com/watch?v=2xj8-v0o9LQ)
