@@ -3,7 +3,7 @@ My main interest is knowledge sharing!
 My areas of interest are infrastructure (IaaC), SRE, Automation, DevOps Culture, Data Engineering, Python, Ruby and Rust. I also love to talk about diversity, inclusion and accessibility.
 
 ## Biografy
-Natalia has been working with infrastructure since 2009, today she works Qualitity Engineer at the company  Red Hat, has extensive experience acting as SysAdmin. Former student of physics and today deepening in studying Software Engineering and Architecture.
+Natalia has been working with infrastructure since 2009, today she works Qualitity Engineer at Red Hat, has extensive experience acting as SysAdmin. Former student of physics and today deepening in studying Software Engineering and Architecture.
 
 Try to be as active as possible in the development communities and always helping open source projects, especially when they need translation.
 
