@@ -3,7 +3,7 @@ My main interest is knowledge sharing!
 My areas of interest are infrastructure (IaaC), SRE, Automation, DevOps Culture, Data Engineering, Python, Ruby and Rust. I also love to talk about diversity, inclusion and accessibility.
 
 ## Biografy
-Natalia has been working with infrastructure since 2009, today she works as ```XXXXXXX``` at the company ``` XXXXXXX```, has extensive experience acting as SysAdmin. Former student of physics and today deepening in studying Software Engineering and Architecture.
+Natalia has been working with infrastructure since 2009, today she works Qualitity Engineer at the company  Red Hat, has extensive experience acting as SysAdmin. Former student of physics and today deepening in studying Software Engineering and Architecture.
 
 Try to be as active as possible in the development communities and always helping open source projects, especially when they need translation.
 
@@ -11,7 +11,7 @@ She also mentors other black women in the career development field and I have a 
 
 In love with cats, pizza, beer and her husband. :D
 
-*Note: remember I am an autistic person with hearing impairment*
+*Note: remember I am an autistic person*
 
 ## Photos
 
@@ -21,17 +21,31 @@ In the photos folder you can find some of my favorite photos that were taken at 
 
 # 2020
 
-## Talks (Upcoming)
+## Talks 
+
+### (Upcoming)
+Data | Topic | Event/Meetup | Local
+--- | --- | --- | ---
+May/2020 | Keynote | PyData Brazil | Online
+Jun/2020 | How networks work in Docker | DevOpsDays Luanda | Online
+Jun/2020 | Just a Chat | (World of Programming) O mundo da programação | Online
+Jun/2020 | To be defined | To be defined | Online
+Jul/2020 | To be defined | To be defined | Online
+
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
-Apr/2020 | Undefined | Meetup Docker RJ | Online
+Apr/2020 | DevOps Culture and Accessibility | Meetup Docker RJ | Online
 May/2020 | Machine Learning with Docker and Flask | FiqueEmCasaConf | Online 
+May/2020 | Python e Load Balancers | Nerdzão, Nerdgirls | Online
+May/2020 | Python e Load Balancers | Live de Python | Online
 
 ## Other participations (Upcoming)
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
-Undefined | DevOps Culture | Opencast | Online
+May/2020 | DevOps Culture | Opencast | Online
+May/2020 | How is working with Infrastructure in Ireland | Passaporte Nerd | Online
+
 
 # 2019
 
