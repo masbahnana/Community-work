@@ -11,7 +11,7 @@ Também presta mentoria para outras mulheres negras na área de desenvolvimento 
 
 Apaixonada por gatos, pizza, cerveja e pelo maridinho. :D 
 
-*Obs: lembrem-se eu sou uma pessoa autista e com deficiencia auditiva*
+*Obs: lembrem-se eu sou uma pessoa autista*
 
 ## Fotos
 
@@ -23,11 +23,22 @@ Na pasta fotos você encontra algumas das minhas fotos favoritas que foram tirad
 
 ## Palestras 
 
+### Em breve
+
+Data | Assunto | Evento/Meetup | Local
+--- | --- | --- | ---
+Maio/2020 | Keynote | PyData Brasil | Online
+Jun/2020 | Como funcionam as redes no Docker | DevOpsDays Luanda | Online
+Jun/2020 | Bate Papo | O mundo da programação | Online
+Jun/2020 | A definir | A definir | A definir 
+Jul/2020 | A definir | A definir | A definir
+
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
 Abril/2020 | DevOps e Acessibilidade | Meetup Docker RJ | Online
 Maio/2020 | Machine Learning com Docker e Flask | FiqueEmCasaConf | Online 
 Maio/2020 | Python e Load Balancers | Nerdzão, Nerdgirls | Online
+Maio/2020 | Python e Load Balancers | Live de Python | Online
 
 ## Outras participações
 Data | Assunto | Evento/Meetup | Local
