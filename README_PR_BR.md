@@ -35,16 +35,16 @@ Jul/2020 | A definir | A definir | A definir
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Abril/2020 | DevOps e Acessibilidade | Meetup Docker RJ | Online
-Maio/2020 | Machine Learning com Docker e Flask | FiqueEmCasaConf | Online 
-Maio/2020 | Python e Load Balancers | Nerdzão, Nerdgirls | Online
-Maio/2020 | Python e Load Balancers | Live de Python | Online
+Abril/2020 | DevOps e Acessibilidade | Meetup Docker RJ | [Online](https://www.youtube.com/watch?v=7wGm_mL_fbA)
+Maio/2020 | Machine Learning com Docker e Flask | FiqueEmCasaConf | [Online](https://www.youtube.com/watch?v=J5E59YgbyYo&t=3s) 
+Maio/2020 | Python e Load Balancers | Nerdzão, Nerdgirls | [Online](https://www.youtube.com/watch?v=CqLixrRrKZI)
+Maio/2020 | Python e Load Balancers | Live de Python | [Online](https://www.youtube.com/watch?v=yAy_n8n6S5E&t=30s)
 
 ## Outras participações
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Maio/2020 | Cultura DevOps | Opencast | Online
-Maio/2020 | Como é trabalhar com Infraestrutura na Irlanda | Passaporte Nerd | Online
+Maio/2020 | Cultura DevOps | Opencast | [Online](https://www.youtube.com/watch?v=2xj8-v0o9LQ)
+Maio/2020 | Como é trabalhar com Infraestrutura na Irlanda | Passaporte Nerd | [Online](https://www.youtube.com/watch?v=fhvTeuyQ3LE)
 
 ## Coordenações
 
