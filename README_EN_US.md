@@ -25,7 +25,6 @@ In the photos folder you can find some of my favorite photos that were taken at 
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
-May/2020 | Keynote | PyData Brazil | Online
 Jun/2020 | How networks work in Docker | DevOpsDays Luanda | Online
 Jun/2020 | Just a Chat | (World of Programming) O mundo da programação | Online
 Jun/2020 | To be defined | To be defined | Online
@@ -41,6 +40,7 @@ Apr/2020 | DevOps Culture and Accessibility | Meetup Docker RJ | [Online](https:
 May/2020 | Machine Learning with Docker and Flask | FiqueEmCasaConf | [Online](https://www.youtube.com/watch?v=J5E59YgbyYo&t=3s) 
 May/2020 | Python e Load Balancers | Nerdzão, Nerdgirls | [Online](https://www.youtube.com/watch?v=CqLixrRrKZI)
 May/2020 | Python e Load Balancers | Live de Python | [Online](https://www.youtube.com/watch?v=yAy_n8n6S5E&t=30s)
+May/2020 | Keynote - Data Engineer? | PyData Brazil | [Online](https://www.youtube.com/watch?v=A7Ls__lTwbc)
 
 ## Other participations
 

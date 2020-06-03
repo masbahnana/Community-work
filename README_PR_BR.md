@@ -25,7 +25,6 @@ Na pasta fotos você encontra algumas das minhas fotos favoritas que foram tirad
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Maio/2020 | Keynote | PyData Brasil | Online
 Jun/2020 | Como funcionam as redes no Docker | DevOpsDays Luanda | Online
 Jun/2020 | Bate Papo | O mundo da programação | Online
 Jun/2020 | A definir | A definir | A definir 
@@ -41,6 +40,7 @@ Abril/2020 | DevOps e Acessibilidade | Meetup Docker RJ | [Online](https://www.y
 Maio/2020 | Machine Learning com Docker e Flask | FiqueEmCasaConf | [Online](https://www.youtube.com/watch?v=J5E59YgbyYo&t=3s) 
 Maio/2020 | Python e Load Balancers | Nerdzão, Nerdgirls | [Online](https://www.youtube.com/watch?v=CqLixrRrKZI)
 Maio/2020 | Python e Load Balancers | Live de Python | [Online](https://www.youtube.com/watch?v=yAy_n8n6S5E&t=30s)
+Maio/2020 | Keynote - Engenharia de Dados? | PyData Brasil | [Online](https://www.youtube.com/watch?v=A7Ls__lTwbc)
 
 ## Outras participações
 
