@@ -25,10 +25,8 @@ Na pasta fotos você encontra algumas das minhas fotos favoritas que foram tirad
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Jun/2020 | Como funcionam as redes no Docker | DevOpsDays Luanda | Online
-Jun/2020 | Bate Papo | O mundo da programação | Online
-Jun/2020 | A definir | A definir | A definir 
-Jul/2020 | A definir | A definir | A definir
+Jul/2020 | Mini Tutotial de Ansible | +Dev | Online
+Jul/2020 | Escalando a Arquitetura de Produto | Product Master Class | Online
 
 ## Palestras
 
@@ -41,6 +39,10 @@ Maio/2020 | Machine Learning com Docker e Flask | FiqueEmCasaConf | [Online](htt
 Maio/2020 | Python e Load Balancers | Nerdzão, Nerdgirls | [Online](https://www.youtube.com/watch?v=CqLixrRrKZI)
 Maio/2020 | Python e Load Balancers | Live de Python | [Online](https://www.youtube.com/watch?v=yAy_n8n6S5E&t=30s)
 Maio/2020 | Keynote - Engenharia de Dados? | PyData Brasil | [Online](https://www.youtube.com/watch?v=A7Ls__lTwbc)
+Jun/2020 | Como funcionam as redes no Docker | DevOpsDays Luanda | Online
+Jun/2020 | Python e Load Balancers | PyLadies Dublin | [Online](https://www.youtube.com/watch?v=PSvERsU3dNU)
+Jul/2020 | Carreira, Cloud e DevOps | Tecnogueto | [Online](https://www.youtube.com/watch?v=iDz-2X5GMYY)
+Jul/2020 | Carreira | Peixe Babel | [Online](https://youtu.be/Yg0AdhHmXa4)
 
 ## Outras participações
 
