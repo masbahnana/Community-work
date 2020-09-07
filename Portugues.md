@@ -13,11 +13,13 @@ Apaixonada por gatos, pizza, cerveja e pelo maridinho. :D
 
 *Obs: lembrem-se eu sou uma pessoa autista*
 
-## Fotos
-
-Na pasta fotos você encontra algumas das minhas fotos favoritas que foram tiradas em eventos, mas a minha favorita é essa daqui (FlaskConf): 
-
-![foto](fotos/48726627043_7979a2681c_o.jpg)
+## Projetos contínuos 
+Data | Assunto | Descrição
+--- | --- | ---
+Atual | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
+2020 | Mentoria | Mentorando duas mulheres negras
+2020 | Mentoria | Projeto Mais1Code
+2020 | Estrutura | Equipe estrututal do projeto EducaTransForma
 
 # 2020 
 
@@ -25,8 +27,9 @@ Na pasta fotos você encontra algumas das minhas fotos favoritas que foram tirad
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Jul/2020 | Mini Tutotial de Ansible | +Dev | Online
-Jul/2020 | Escalando a Arquitetura de Produto | Product Master Class | Online
+Out/2020 | - | - | Online
+Out/2020 | - | - | Online
+Dez/2020 | - | - | Online
 
 ## Palestras
 
@@ -34,6 +37,7 @@ Jul/2020 | Escalando a Arquitetura de Produto | Product Master Class | Online
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
+Jul/2020 | Mini Tutotial de Ansible | +Dev | Online
 Abril/2020 | DevOps e Acessibilidade | Meetup Docker RJ | [Online](https://www.youtube.com/watch?v=7wGm_mL_fbA)
 Maio/2020 | Machine Learning com Docker e Flask | FiqueEmCasaConf | [Online](https://www.youtube.com/watch?v=J5E59YgbyYo&t=3s) 
 Maio/2020 | Python e Load Balancers | Nerdzão, Nerdgirls | [Online](https://www.youtube.com/watch?v=CqLixrRrKZI)
@@ -55,8 +59,7 @@ Maio/2020 | Como é trabalhar com Infraestrutura na Irlanda | Passaporte Nerd | 
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Atualmente | Coordenadora da Comunidade | PyData Porto Alegre | Porto Alegre/RS
-Atualmente | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
+2020 | Coordenadora da Comunidade | PyData Porto Alegre | Porto Alegre/RS
 
 # 2019
 

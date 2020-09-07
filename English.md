@@ -13,11 +13,11 @@ In love with cats, pizza, beer and her husband. :D
 
 *Note: remember I am an autistic person*
 
-## Photos
-
-In the photos folder you can find some of my favorite photos that were taken at events, but one of my favorites is this one:
-
-![foto](fotos/48726627043_7979a2681c_o.jpg)
+## Ongoing projects
+Data | Topic | Description
+2020 | Mentoring | Mentoring two black women
+2020 | Mentoring | Mais1Code Project 
+2020 | Structure | Structural team of the EducaTransForma project
 
 # 2020
 
@@ -25,8 +25,9 @@ In the photos folder you can find some of my favorite photos that were taken at 
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
-Jul/2020 | Ansible Tutorial | +Dev | Online
-Jul/2020 | Scaling the Product Architecture | Product Master Class | Online
+Oct/2020 | - | - | Online
+Oct/2020 | - | - | Online
+Dec/2020 | - | - | Online
 
 ## Talks 
 
@@ -34,6 +35,7 @@ Jul/2020 | Scaling the Product Architecture | Product Master Class | Online
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
+Jul/2020 | Ansible Tutorial | +Dev | Online
 Apr/2020 | DevOps Culture and Accessibility | Meetup Docker RJ | [Online](https://www.youtube.com/watch?v=7wGm_mL_fbA)
 May/2020 | Machine Learning with Docker and Flask | FiqueEmCasaConf | [Online](https://www.youtube.com/watch?v=J5E59YgbyYo&t=3s) 
 May/2020 | Python e Load Balancers | Nerdzão, Nerdgirls | [Online](https://www.youtube.com/watch?v=CqLixrRrKZI)
