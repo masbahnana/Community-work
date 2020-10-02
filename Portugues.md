@@ -27,8 +27,8 @@ Atual | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Out/2020 | - | - | Online
-Out/2020 | - | - | Online
+Out/2020 | Teste de Infraestrutura | Agile Testers | Online
+Out/2020 | Teste de Infraestrutura | DevParaná | Online
 Dez/2020 | - | - | Online
 
 ## Palestras
@@ -37,6 +37,7 @@ Dez/2020 | - | - | Online
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
+Set/2020 | Molecule | JAC | Online
 Jul/2020 | Mini Tutotial de Ansible | +Dev | Online
 Abril/2020 | DevOps e Acessibilidade | Meetup Docker RJ | [Online](https://www.youtube.com/watch?v=7wGm_mL_fbA)
 Maio/2020 | Machine Learning com Docker e Flask | FiqueEmCasaConf | [Online](https://www.youtube.com/watch?v=J5E59YgbyYo&t=3s) 
