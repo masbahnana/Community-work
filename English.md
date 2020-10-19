@@ -13,11 +13,19 @@ In love with cats, pizza, beer and her husband. :D
 
 *Note: remember I am an autistic person*
 
+## Bio (280 Characters)
+Natalia has been working with infrastructure since 2009 and realized her dream of working with Open Source, RedHat. A person passionate about technology and everything that moves Natalia, also focuses on mentoring black people in the area.
+
+## Online content | Stream
+-   [Twitch](https://www.twitch.tv/shebangbash)
+-   [Youtube](https://www.youtube.com/c/shebangbash)
+
 ## Ongoing projects
-Data | Topic | Description
-2020 | Mentoring | Mentoring two black women
-2020 | Mentoring | Mais1Code Project 
-2020 | Structure | Structural team of the EducaTransForma project
+Data | Topic | Description | Local
+2020 | Coordinator | Tech&&Beer | Brazil
+2020 | Mentoring | Mentoring two black women | Brazil
+2020 | Mentoring | Mais1Code Project | Brazil
+2020 | Structure | Structural team of the EducaTransForma project | Brazil
 
 # 2020
 
@@ -25,9 +33,8 @@ Data | Topic | Description
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
-Oct/2020 | - | - | Online
-Oct/2020 | - | - | Online
-Dec/2020 | - | - | Online
+Oct/2020 | Cypress is the new Selenium | DevParaná | Online
+
 
 ## Talks 
 
@@ -35,6 +42,9 @@ Dec/2020 | - | - | Online
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
+Oct/2020 | Cypress is the new Selenium | BrazilJS On The Road | Online
+Out/2020 | Molecule | AgileBrazil | Online
+Set/2020 | Molecule | JAC | Online
 Jul/2020 | Ansible Tutorial | +Dev | Online
 Apr/2020 | DevOps Culture and Accessibility | Meetup Docker RJ | [Online](https://www.youtube.com/watch?v=7wGm_mL_fbA)
 May/2020 | Machine Learning with Docker and Flask | FiqueEmCasaConf | [Online](https://www.youtube.com/watch?v=J5E59YgbyYo&t=3s) 
