@@ -21,6 +21,7 @@ Natalia has been working with infrastructure since 2009 and realized her dream o
 -   [Youtube](https://www.youtube.com/c/shebangbash)
 
 ## Ongoing projects
+--- | --- | --- | --- 
 Data | Topic | Description | Local
 2020 | Coordinator | Tech&&Beer | Brazil
 2020 | Mentoring | Mentoring two black women | Brazil
