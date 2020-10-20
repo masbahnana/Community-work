@@ -8,7 +8,7 @@ To get in touch you can open an issue in this repository or send me an email (na
 
 Below is my biography in different formats, photo and all my lectures.
 
-*Note: remember I am an autistic person*
+*Note: I am an autistic person*
 
 ## Biography
 
@@ -16,7 +16,7 @@ Natália Raythz is a Brazilian living in Ireland and an IT professional with a b
 
 Always delving into learning more about SRE, testing software outside the standard of the testing pyramid and automating everything I can.
 
- Always trying to be as active as possible in the community as a speaker or giving workshops, but today her main focus is to mentor underrepresented people. Today Natalia is a mentor in two projects: Imoye, which is focused on mentoring black women, and + 1Code, which is focused on including peripheral people in the technology area.
+Always trying to be as active as possible in the community as a speaker or giving workshops, but today her main focus is to mentor underrepresented people. Today Natalia is a mentor in two projects: Imoye, which is focused on mentoring black women, and + 1Code, which is focused on including peripheral people in the technology area.
 
 In her free time, Natalia likes to draw, read and go to the Marina (Dun Laoghaire / Ireland).
 
@@ -28,13 +28,11 @@ Natália Raythz is a Brazilian who lives in Ireland and an IT professional with 
 
 Natalia has been working with infrastructure since 2009 and realized her dream of working with Open Source, RedHat. A person passionate about technology and everything she moves Natalia also focuses on mentoring black people in the area.
 
-### Photo
+## Photo
 
+![foto](/fotos/48726627043_7979a2681c_o.jpg)
 
-## Bio (280 Characters)
-Natalia has been working with infrastructure since 2009 and realized her dream of working with Open Source, RedHat. A person passionate about technology and everything that moves Natalia, also focuses on mentoring black people in the area.
-
-## Online content | Stream
+## Online content | Stream (under construction)
 -   [Twitch](https://www.twitch.tv/shebangbash)
 -   [Youtube](https://www.youtube.com/c/shebangbash)
 
@@ -52,7 +50,10 @@ Data | Topic | Description | Local
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
-Oct/2020 | Cypress is the new Selenium | DevParaná | Online
+Oct/2020 | Cypress is the new Selenium? | DevParaná | Online
+Nov/2020 | Quality Engineer and Molecule | Python Brazil | Online
+Nov/2020 | Python and Load Balancers Tutorial | Python Brazil | Online
+Nov/2020 | No title yet | FOSSday | Online
 
 
 ## Talks 
@@ -62,7 +63,7 @@ Oct/2020 | Cypress is the new Selenium | DevParaná | Online
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
 Oct/2020 | Cypress is the new Selenium | BrazilJS On The Road | Online
-Out/2020 | Molecule | AgileBrazil | Online
+Out/2020 | Molecule | Agile Testers | Online
 Set/2020 | Molecule | JAC | Online
 Jul/2020 | Ansible Tutorial | +Dev | Online
 Apr/2020 | DevOps Culture and Accessibility | Meetup Docker RJ | [Online](https://www.youtube.com/watch?v=7wGm_mL_fbA)

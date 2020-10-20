@@ -8,6 +8,8 @@ Para entrar em contato você pode abrir uma issue nesse repositório ou me envia
 
 Abaixo segue a minha biografia em diversos formatos, foto e todas as minhas palestras. 
 
+*Obs: eu sou uma pessoa autista*
+
 ## Biografia
 
 Natália Raythz é uma Brasileira que mora na Irlanda e profissional de TI com background em infraestrutura e desenvolvimento, atualmente está trabalhando como pessoa Engenheira de Qualidade de Software na Red Hat. 
@@ -28,6 +30,12 @@ Natalia trabalha com infraestrutura desde 2009 e realizou o sonho de trabalhar c
 
 ### Photo
 
+![foto](/fotos/48726627043_7979a2681c_o.jpg)
+
+## Conteudo Online (em construção)
+-   [Twitch](https://www.twitch.tv/shebangbash)
+-   [Youtube](https://www.youtube.com/c/shebangbash)
+
 
 ## Projetos contínuos 
 Data | Assunto | Descrição
@@ -43,9 +51,10 @@ Atual | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Out/2020 | Teste de Infraestrutura | Agile Testers | Online
-Out/2020 | Teste de Infraestrutura | DevParaná | Online
-Dez/2020 | - | - | Online
+Out/2020 | Cypress is the new Selenium? | DevParaná | Online
+Nov/2020 | Qualidade de Software e o Molecule | Python Brasil | Online
+Nov/2020 | Tutorial Python e Load Balancers | Python Brasil | Online
+Nov/2020 | Sem titulo ainda | FOSSday RS | Online
 
 ## Palestras
 
@@ -53,6 +62,8 @@ Dez/2020 | - | - | Online
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
+Out/2020 | Cypress é o novo Selenium? | BrazilJS On The Road | Brasil
+Out/2020 | Teste de Infraestrutura | Agile Testers | Online
 Set/2020 | Molecule | JAC | Online
 Jul/2020 | Mini Tutotial de Ansible | +Dev | Online
 Abril/2020 | DevOps e Acessibilidade | Meetup Docker RJ | [Online](https://www.youtube.com/watch?v=7wGm_mL_fbA)
