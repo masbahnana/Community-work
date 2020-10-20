@@ -1,17 +1,35 @@
-## My interests
-My main interest is knowledge sharing!
-My areas of interest are infrastructure (IaaC), SRE, Automation, DevOps Culture, Data Engineering, Python, Ruby and Rust. I also love to talk about diversity, inclusion and accessibility.
+Hi! I am Natalia Raythz and in this repository you will find all the information about my public lectures (past, present and future).
 
-## Biografy
-Natalia has been working with infrastructure since 2009, today she works Qualitity Engineer at Red Hat, has extensive experience acting as SysAdmin. Former student of physics and today deepening in studying Software Engineering and Architecture.
+## Do you want to invite me to your conference?
 
-Try to be as active as possible in the development communities and always helping open source projects, especially when they need translation.
+My areas of interest are software testing, infrastructure (IaaS), claud computing, SRE, development in Python and Ruby languages, quality and software engineering. I also talk about diversity, accessibility and inclusion.
 
-She also mentors other black women in the career development field and I have a wonderful event called Tech && Beer.
+To get in touch you can open an issue in this repository or send me an email (natr@hey.com) containing information about the conference.
 
-In love with cats, pizza, beer and her husband. :D
+Below is my biography in different formats, photo and all my lectures.
 
 *Note: remember I am an autistic person*
+
+## Biography
+
+Natália Raythz is a Brazilian living in Ireland and an IT professional with a background in infrastructure and development, currently working as a Software Quality Engineer at Red Hat.
+
+Always delving into learning more about SRE, testing software outside the standard of the testing pyramid and automating everything I can.
+
+ Always trying to be as active as possible in the community as a speaker or giving workshops, but today her main focus is to mentor underrepresented people. Today Natalia is a mentor in two projects: Imoye, which is focused on mentoring black women, and + 1Code, which is focused on including peripheral people in the technology area.
+
+In her free time, Natalia likes to draw, read and go to the Marina (Dun Laoghaire / Ireland).
+
+## Minibio
+
+Natália Raythz is a Brazilian who lives in Ireland and an IT professional with an infrastructure and development background, currently working as a Software Quality Engineer at Red Hat. Always delving into learning more about SRE, non-standard software testing. pyramid of testing and automating everything you can.
+
+## Bio for a tweet
+
+Natalia has been working with infrastructure since 2009 and realized her dream of working with Open Source, RedHat. A person passionate about technology and everything she moves Natalia also focuses on mentoring black people in the area.
+
+### Photo
+
 
 ## Bio (280 Characters)
 Natalia has been working with infrastructure since 2009 and realized her dream of working with Open Source, RedHat. A person passionate about technology and everything that moves Natalia, also focuses on mentoring black people in the area.
