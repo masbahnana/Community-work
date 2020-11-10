@@ -47,21 +47,16 @@ Atual | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
 
 # 2020 
 
-## Palestras (Em breve)
-
-Data | Assunto | Evento/Meetup | Local
---- | --- | --- | ---
-Out/2020 | Cypress is the new Selenium? | DevParaná | Online
-Nov/2020 | Qualidade de Software e o Molecule | Python Brasil | Online
-Nov/2020 | Tutorial Python e Load Balancers | Python Brasil | Online
-Nov/2020 | Sem titulo ainda | FOSSday RS | Online
-
 ## Palestras
 
 **No caso das palestras online é possível assisti-lás, basta clicar em online**
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
+Nov/2020 | Cypress é o novo Selenium? | FOSSday RS | Online
+Nov/2020 | Tutorial Python e Load Balancers | Python Brasil | Online
+Nov/2020 | Qualidade de Software e o Molecule | Python Brasil | Online
+Out/2020 | Cypress é o novo Selenium? | DevParaná | Online
 Out/2020 | Cypress é o novo Selenium? | BrazilJS On The Road | Brasil
 Out/2020 | Teste de Infraestrutura | Agile Testers | Online
 Set/2020 | Molecule | JAC | Online
