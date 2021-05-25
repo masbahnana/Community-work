@@ -1,4 +1,4 @@
-Oi! Eu sou Natalia Raythz e nesse repositório você encontra todas as informações sobre minhas palestras públicas (passadas, presentes e futuras).
+Oi! Eu sou Nana da Silva e nesse repositório você encontra todas as informações sobre minhas palestras públicas (passadas, presentes e futuras).
 
 ## Quer me convidar para a sua conferencia?
 
@@ -12,21 +12,21 @@ Abaixo segue a minha biografia em diversos formatos, foto e todas as minhas pale
 
 ## Biografia
 
-Natália Raythz é uma Brasileira que mora na Irlanda e profissional de TI com background em infraestrutura e desenvolvimento, atualmente está trabalhando como pessoa Engenheira de Qualidade de Software na Red Hat. 
+Nana da Silva é uma Brasileira que mora na Irlanda e profissional de TI com background em infraestrutura e desenvolvimento, atualmente está trabalhando como pessoa Engenheira de Qualidade de Software na Red Hat. 
 
 Sempre me aprofundando em aprender mais sobre SRE, testes de software fora do padrão da piramide dos testes e automatizando tudo o que pode. 
 
- Sempre tentando ser o mais ativa possível na comunidade como palestrante ou ministrando workshops, mas hoje o principal foco dela é mentorar pessoas subrepresentadas. Hoje Natalia é mentora em dois projetos o Imoye que é focado em mentorar mulheres negras e o +1Code que é focado para inclusão de pessoas periféricas na área de tecnologia. 
+Sempre tentando ser o mais ativa possível na comunidade como palestrante ou ministrando workshops, mas hoje o principal foco dela é mentorar pessoas subrepresentadas. Hoje Nana é mentora em dois projetos o Imoye que é focado em mentorar mulheres negras e o +1Code que é focado para inclusão de pessoas periféricas na área de tecnologia. 
 
-No tempo livre, Natalia gosta de desenhar, ler e ir observar a Marina (Dun Laoghaire/Irlanda).
+No tempo livre, Nana gosta de desenhar, ler e ir observar a Marina (Dun Laoghaire/Irlanda).
 
 ## Minibio
 
-Natália Raythz é uma Brasileira que mora na Irlanda e profissional de TI com background em infraestrutura e desenvolvimento, atualmente está trabalhando como pessoa Engenheira de Qualidade de Software na Red Hat. Sempre me aprofundando em aprender mais sobre SRE, testes de software fora do padrão da piramide dos testes e automatizando tudo o que pode. 
+Nana da Silva é uma Brasileira que mora na Irlanda e profissional de TI com background em infraestrutura e desenvolvimento, atualmente está trabalhando como pessoa Engenheira de Qualidade de Software na Red Hat. Sempre me aprofundando em aprender mais sobre SRE, testes de software fora do padrão da piramide dos testes e automatizando tudo o que pode. 
 
 ## Bio para um tweet
 
-Natalia trabalha com infraestrutura desde 2009 e realizou o sonho de trabalhar com Open Source, a RedHat. Pessoa apaixonada por tecnologia e por tudo o que ela move Natalia também foca em mentorar pessoas negras na área.
+Nana da Silva trabalha com infraestrutura desde 2009 e realizou o sonho de trabalhar com Open Source, a RedHat. Pessoa apaixonada por tecnologia e por tudo o que ela move Nana também foca em mentorar pessoas negras na área.
 
 ### Photo
 
@@ -40,8 +40,8 @@ Natalia trabalha com infraestrutura desde 2009 e realizou o sonho de trabalhar c
 ## Projetos contínuos 
 Data | Assunto | Descrição
 --- | --- | ---
-Atual | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
-2020 | Mentoria | Mentorando duas mulheres negras
+2020 | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
+2020 | Fundadora e Mentora | Imoye | Global
 2020 | Mentoria | Projeto Mais1Code
 2020 | Estrutura | Equipe estrututal do projeto EducaTransForma
 
