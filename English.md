@@ -8,25 +8,23 @@ To get in touch you can open an issue in this repository or send me an email (na
 
 Below is my biography in different formats, photo and all my lectures.
 
-*Note: I am an autistic person*
-
 ## Biography
 
-Natália Raythz is a Brazilian living in Ireland and an IT professional with a background in infrastructure and development, currently working as a Software Quality Engineer at Red Hat.
+Nana da Silva is a Brazilian living in Ireland and an IT professional with a background in infrastructure and development, currently working as a Software Quality Engineer at Red Hat.
 
 Always delving into learning more about SRE, testing software outside the standard of the testing pyramid and automating everything I can.
 
-Always trying to be as active as possible in the community as a speaker or giving workshops, but today her main focus is to mentor underrepresented people. Today Natalia is a mentor in two projects: Imoye, which is focused on mentoring black women, and + 1Code, which is focused on including peripheral people in the technology area.
+Always trying to be as active as possible in the community as a speaker or giving workshops, but today her main focus is to mentor underrepresented people. Today Nana is a mentor in two projects: Imoye, which is focused on mentoring black women, and + 1Code, which is focused on including peripheral people in the technology area.
 
-In her free time, Natalia likes to draw, read and go to the Marina (Dun Laoghaire / Ireland).
+In her free time, Nana likes to draw, read and go to the Marina (Dun Laoghaire / Ireland). (Now I don`t so much time because I have a baby)
 
 ## Minibio
 
-Natália Raythz is a Brazilian who lives in Ireland and an IT professional with an infrastructure and development background, currently working as a Software Quality Engineer at Red Hat. Always delving into learning more about SRE, non-standard software testing. pyramid of testing and automating everything you can.
+Nana is a Brazilian who lives in Ireland and an IT professional with an infrastructure and development background, currently working as a Software Quality Engineer at Red Hat. Always delving into learning more about SRE, non-standard software testing. pyramid of testing and automating everything you can.
 
 ## Bio for a tweet
 
-Natalia has been working with infrastructure since 2009 and realized her dream of working with Open Source, RedHat. A person passionate about technology and everything she moves Natalia also focuses on mentoring black people in the area.
+Natalia has been working with infrastructure since 2009 and realized her dream of working with Open Source. A person passionate about technology and everything she moves Nana also focuses on mentoring black people in the area.
 
 ## Photo
 
@@ -39,22 +37,26 @@ Natalia has been working with infrastructure since 2009 and realized her dream o
 ## Ongoing projects
 Data | Topic | Description | Local
 --- | --- | --- | --- 
-2020 | Coordinator | Tech&&Beer | Brazil
-2020 | Mentoring | Mentoring two black women | Brazil
-2020 | Mentoring | Mais1Code Project | Brazil
-2020 | Structure | Structural team of the EducaTransForma project | Brazil
+2020 | Imoye | Mentoring group | Brazil
+2022 | TechImmigrantFamily | Podcast | EMEA (upcoming)
 
-# 2020
+# 2021
 
-## Talks (Upcoming)
+## Talks
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
-Oct/2020 | Cypress is the new Selenium? | DevParaná | Online
-Nov/2020 | Quality Engineer and Molecule | Python Brazil | Online
-Nov/2020 | Python and Load Balancers Tutorial | Python Brazil | Online
-Nov/2020 | No title yet | FOSSday | Online
+Aug/2021 | Chat about Cypress | Talk About Tests | [Online](https://www.youtube.com/watch?v=cqvgs-A2e1Q&t=16s)
+Jun/2021 | DevOps outside Brazil | DevOpsdays RJ | Online
 
+## Others participations 
+
+Data | Topic | Event/Meetup | Local
+--- | --- | --- | ---
+Mar/2021 | Infra as code | QAsei podcast | Online
+
+
+# 2020
 
 ## Talks 
 
@@ -62,6 +64,10 @@ Nov/2020 | No title yet | FOSSday | Online
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
+Nov/2020 | Quality Engineer and Molecule | Python Brazil | Online
+Nov/2020 | Python and Load Balancers Tutorial | Python Brazil | Online
+Nov/2020 | Quality??? | FOSSday | Online
+Oct/2020 | Cypress is the new Selenium? | DevParaná | Online
 Oct/2020 | Cypress is the new Selenium | BrazilJS On The Road | Online
 Out/2020 | Molecule | Agile Testers | Online
 Set/2020 | Molecule | JAC | Online
@@ -82,7 +88,7 @@ Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
 May/2020 | DevOps Culture | Opencast | [Online](https://www.youtube.com/watch?v=2xj8-v0o9LQ)
 May/2020 | How is working with Infrastructure in Ireland | Passaporte Nerd | [Online](https://www.youtube.com/watch?v=fhvTeuyQ3LE)
-
+Set/2020 | DevOps and Mentoring | Castalio Podcast | [Online](https://www.youtube.com/watch?v=5zXyNU3PJlA)
 
 # 2019
 
@@ -127,8 +133,8 @@ Sep/2019 | Accessibility Panel | Festival SGB | Florianópolis/SC
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
+Current | Grio Mentoring | Founder | Brazil
 Current | Community Coordinator | PyData Porto Alegre | Porto Alegre/RS
-Current | Creator and Event Coordinator | Tech&&Beer | Porto Alegre/RS
 Apr/2019 | Machine Learning track Coordinator | The Developers Conference | Florianópolis/SC 
 
 ## Acknowledgments
@@ -178,6 +184,7 @@ Apr/2018 | Volunteer | The Developers Conference | Florianópolis/SC
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
-Current | Creator and Event Coordinator | Tech&&Beer | Porto Alegre/RS
-Jul/2018 | Internet of Things trail Coordinator | The Developers Conference | São Paulo/SP
-Dec/2018 | Machine Learning trail Coordinator | The Developers Conference | Porto Alegre/RS
+2020 | Mentoring | Mais1Code Project | Brazil
+2020 | Structure | Structural team of the EducaTransForma project | Brazil
+2018 | Internet of Things trail Coordinator | The Developers Conference | São Paulo/SP
+2018 | Machine Learning trail Coordinator | The Developers Conference | Porto Alegre/RS
