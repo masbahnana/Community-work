@@ -1,5 +1,11 @@
 # Contibuições com a comunidade
-Nesse repositório é possível encontrar todos os meus trabalhos realizados junto as comunidades de tecnologia. 
+
+Oi! Eu sou Nana da Silva e nesse repositório você encontra todas as informações sobre minhas palestras e conteúdos públicos (passadas, presentes e futuras).
+
+Fique a vontade para usar esse template!
 
 # Contributions to the community
-In this repository it is possible to find all my work done with the technology communities.
+
+i! I am Nana da Silva and in this repository you can find all information about my lectures and public content (past, present and future).
+
+Feel free to use this template!

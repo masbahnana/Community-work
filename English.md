@@ -1,44 +1,54 @@
-Hi! I am Natalia Raythz and in this repository you will find all the information about my public lectures (past, present and future).
-
-## Do you want to invite me to your conference?
-
-My areas of interest are software testing, infrastructure (IaaS), claud computing, SRE, development in Python and Ruby languages, quality and software engineering. I also talk about diversity, accessibility and inclusion.
-
-To get in touch you can open an issue in this repository or send me an email (natr@hey.com) containing information about the conference.
-
-Below is my biography in different formats, photo and all my lectures.
-
-## Biography
-
-Nana da Silva is a Brazilian living in Ireland and an IT professional with a background in infrastructure and development, currently working as a Software Quality Engineer at Red Hat.
-
-Always delving into learning more about SRE, testing software outside the standard of the testing pyramid and automating everything I can.
-
-Always trying to be as active as possible in the community as a speaker or giving workshops, but today her main focus is to mentor underrepresented people. Today Nana is a mentor in two projects: Imoye, which is focused on mentoring black women, and + 1Code, which is focused on including peripheral people in the technology area.
-
-In her free time, Nana likes to draw, read and go to the Marina (Dun Laoghaire / Ireland). (Now I don`t so much time because I have a baby)
-
-## Minibio
-
-Nana is a Brazilian who lives in Ireland and an IT professional with an infrastructure and development background, currently working as a Software Quality Engineer at Red Hat. Always delving into learning more about SRE, non-standard software testing. pyramid of testing and automating everything you can.
-
-## Bio for a tweet
-
-Natalia has been working with infrastructure since 2009 and realized her dream of working with Open Source. A person passionate about technology and everything she moves Nana also focuses on mentoring black people in the area.
-
-## Photo
+### photo
 
 ![foto](/fotos/48726627043_7979a2681c_o.jpg)
 
+## Do you want to invite me to your conference?
+
+I am a technologist person and have many areas of interest, among them are: Quality culture, quality engineering (testing and methodologies), open source, automation, communities, mentoring, diversity, accessibility and inclusion.
+
+To contact me you can open an issue in this repository or send me an email (<natr@hey.com>) containing the information about the conference.
+
+Below is my bio in several formats, photo and all my talks.
+
+## A little bit about me
+
+Nana da Silva is a Brazilian living in Ireland and an IT professional with a background in infrastructure and development, currently working as a Software Quality Engineer at Red Hat.
+
+Always deep into learning and teaching, my hard skills are in the areas of quality, testing and infrastructure.
+
+Always trying to be as active as possible in the community as a speaker or giving workshops, but today her main focus is mentoring underrepresented people. Today Nana is a mentor in two projects Imoye which is focused on mentoring black women.
+
+### Disclaimer
+
+Some of my lectures you will find with my "dead name" (Natalia Raythz) and most of them are in Portuguese because even though I live in Ireland I am very active in the Brazilian communities.
+
 ## Online content | Stream (under construction)
--   [Twitch](https://www.twitch.tv/shebangbash)
--   [Youtube](https://www.youtube.com/c/shebangbash)
+
+- [Twitch](https://www.twitch.tv/masbahnana)
+- [Youtube](https://www.youtube.com/@masbahnana)
 
 ## Ongoing projects
+
 Data | Topic | Description | Local
 --- | --- | --- | --- 
 2020 | Imoye | Mentoring group | Brazil
-2022 | TechImmigrantFamily | Podcast | EMEA (upcoming)
+2023 | CodeMigrants | Podcast | EMEA (upcoming)
+
+# 2023
+
+Data | Topic | Event/Meetup | Local
+--- | --- | --- | ---
+April | Quality of your automation | Platform Engineer Summit BR | [Online](https://www.youtube.com/watch?v=gMYpB_UMYyo)
+
+# 2022
+
+That year I stopped all my activities to take care of my son who was born in February 2022, I came back with some activity at the end of 2022.
+
+## Talks
+
+Data | Topic | Event/Meetup | Local
+--- | --- | --- | ---
+November | Maternal loneliness, invite a mother | Programaria Summit | Online
 
 # 2021
 
@@ -46,15 +56,15 @@ Data | Topic | Description | Local
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
-Aug/2021 | Chat about Cypress | Talk About Tests | [Online](https://www.youtube.com/watch?v=cqvgs-A2e1Q&t=16s)
-Jun/2021 | DevOps outside Brazil | DevOpsdays RJ | Online
+Aug | Chat about Cypress | Talk About Tests | [Online](https://www.youtube.com/watch?v=cqvgs-A2e1Q&t=16s)
+Jun | DevOps outside Brazil | DevOpsdays RJ | Online
+Jun | DevOps for QE's | DockerCon | [Online](https://www.youtube.com/watch?v=_05HvL36Fbo&t=23s)
 
 ## Others participations 
 
 Data | Topic | Event/Meetup | Local
 --- | --- | --- | ---
 Mar/2021 | Infra as code | QAsei podcast | Online
-
 
 # 2020
 
@@ -81,6 +91,7 @@ Jun/2020 | How to works Network on Docker | DevOps Days Luanda | Online
 Jun/2020 | Python and Load Balancer | PyLadies Dublin | [Online](https://www.youtube.com/watch?v=PSvERsU3dNU)
 Jul/2020 | Career, Cloud and DevOps | Tecnogueto | [Online](https://www.youtube.com/watch?v=iDz-2X5GMYY)
 Jul/2020 | Career | Peixe Babel | [Online](https://youtu.be/Yg0AdhHmXa4)
+May | The magic world of DevOps | Opencast | [online](https://www.youtube.com/watch?v=2xj8-v0o9LQ&list=PL1bsbqk15wErX7G9g8u0zQghilAgA-u_X&index=4)
 
 ## Other participations
 
